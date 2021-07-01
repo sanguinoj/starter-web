@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Jesús Sanguino jsnl@gft.com
+    
 # THANKS
 
     <name>
